@@ -41,6 +41,7 @@ No provider.
 
 | Name | Description |
 |------|-------------|
+| hello | We want to cordinally greet all newcomers to terraform |
 | tags\_module | Tags Module in it's entirety |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
